@@ -5,9 +5,9 @@
 &nbsp;
 ### About 📓
 
-~ It is a simple project project based on HTML, CSS & JAVASCRIPT.
+~ It is a simple to-do list created using HTML, CSS & JS.
 
-~ User can make short task lists here.
+~ Users can make short task lists here.
 
 ~ When we check ✅ the box, a strike-through appears on the task to mark it as completed.
 
@@ -16,4 +16,3 @@
 
 &nbsp;
 ### Enjoy the project!! ✌
-
