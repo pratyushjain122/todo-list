@@ -11,7 +11,7 @@
 
 ~ When we check ✅ the box, a strike-through appears on the task to mark it as completed.
 
-~ When the bin is clicked, there is a short animation followed by a short animation.
+~ When the bin is clicked, there is a short animation followed by deletion of the task.
 
 
 &nbsp;
